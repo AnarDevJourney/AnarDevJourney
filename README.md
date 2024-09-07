@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anar Talibov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **anartalibov477@gmail.com**
 
